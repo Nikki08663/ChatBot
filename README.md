@@ -127,6 +127,8 @@ We use [SemVer](http://semver.org/) for versioning.
 # Author
 
 Christian Bartram  [Cbartram Github](https://github.com/cbartram)
+Agrani
+
 
 # Contributing
 
